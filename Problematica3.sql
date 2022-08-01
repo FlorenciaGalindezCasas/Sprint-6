@@ -35,3 +35,5 @@ Problemática 3
     SELECT loan_date,loan_total FROM prestamo WHERE loan_date LIKE "____-__-0%4%" OR loan_date LIKE "____-__-0%6%" OR loan_date LIKE "____-__-0%8%" ORDER BY loan_total
 
 9) Obtener el importe total de los prestamos agrupados por tipo de préstamos. Por cada tipo de préstamo de la tabla préstamo, calcular la suma de sus importes. Renombrar la columna como loan_total_accu
+
+    SELECT loan_type, SUM(loan_total) AS loan_total_accu FROM prestamo GROUP BY loan_type;
