@@ -1,0 +1,2 @@
+ALTER TABLE cuenta
+ADD COLUMN id_tipo_cuenta INTEGER NOT NULL

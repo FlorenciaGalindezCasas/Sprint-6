@@ -1,0 +1,600 @@
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
+INSERT INTO `cuenta` (`id_tipo_cuenta`)
+VALUES
+  (1),
+  (2),
+  (3),
+  (4),
+  (5),
+  (1),
+  (2),
+  (3),
+  (4),
+  (5);
