@@ -5,7 +5,7 @@ FROM cliente
 
 - Mostrar las columnas de los clientes, ordenadas por el DNI de menor a mayor y cuya edad sea superior a 40 años
 
-SELECT * FROM view_cliente WHERE customer_edad > 40 ORDER BY customer_DNI DESC
+SELECT * FROM view_cliente WHERE customer_edad > 40 ORDER BY length(customer_DNI) ASC,customer_DNI ASC
 
 - Mostrar todos los clientes que se llaman “Anne” o “Tyler” ordenados por edad de menor a mayor
 
