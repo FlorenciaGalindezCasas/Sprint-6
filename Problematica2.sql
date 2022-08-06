@@ -1,5 +1,15 @@
+1) Crear una vista con las columnas id, numero sucursal, nombre, apellido, DNI y edad de la tabla cliente calculada a partir de la fecha de nacimiento
 
+CREATE VIEW IF NOT EXISTS view_cliente AS SELECT customer_id, branch_id, customer_name, customer_surname, customer_DNI, cast(strftime('%Y.%m%d', 'now') - strftime('%Y.%m%d', dob) AS int )AS customer_edad
+FROM cliente
 
+- Mostrar las columnas de los clientes, ordenadas por el DNI de menor a mayor y cuya edad sea superior a 40 años
+
+SELECT * FROM view_cliente WHERE customer_edad > 40 ORDER BY customer_DNI DESC
+
+- Mostrar todos los clientes que se llaman “Anne” o “Tyler” ordenados por edad de menor a mayor
+
+SELECT * FROM view_cliente WHERE customer_name = 'Anne' OR customer_name = 'Tyler' ORDER BY customer_edad
 
 2) Insertar 5 nuevos clientes en la base de datos y verificar que se haya realizado con éxito la inserción
     INSERT INTO cliente (customer_name,customer_surname,customer_DNI,branch_id,dob)
