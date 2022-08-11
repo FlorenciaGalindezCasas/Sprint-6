@@ -7,7 +7,11 @@
     ORDER BY COUNT(cliente.customer_id)DESC
 
 2) Obtener la cantidad de empleados por cliente por sucursal en un número real
-    
+    SELECT sucursal.branch_id, branch_name, COUNT(employee_id) AS cantidad_empleados
+    FROM sucursal
+    INNER JOIN empleado ON empleado.branch_id = sucursal.branch_id
+    GROUP BY branch_name
+	ORDER BY sucursal.branch_id    
 
 3) Obtener la cantidad de tarjetas de crédito por tipo por sucursal
 
@@ -81,3 +85,14 @@
 	  DATETIME('NOW')      
 	  );
   END;
+
+  - UPDATE cuenta
+    SET balance = balance - 100 
+    WHERE account_id BETWEEN 10 AND 14
+
+6) Mediante índices mejorar la performance la búsqueda de clientes por DNI
+
+   CREATE INDEX busqueda_DNI
+   ON cliente(customer_DNI)
+
+7) 
