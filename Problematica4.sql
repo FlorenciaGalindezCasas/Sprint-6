@@ -96,3 +96,26 @@
    ON cliente(customer_DNI)
 
 7) 
+CREATE TABLE MOVIMIENTOS (
+movimiento_id INTEGER NOT NULL PRIMARY KEY,
+numero_cuenta_id INTEGER NOT NULL, 
+monto INTEGER NOT NULL, 
+tipo_de_operacion TEXT NOT NULL, 
+hora INTEGER NOT NULL
+);
+BEGIN TRANSACTION;
+UPDATE cuenta
+SET  balance = balance - 1000
+WHERE account_id = 200;
+
+UPDATE cuenta
+SET balance= balance + 1000
+WHERE account_id = 400;
+
+INSERT INTO MOVIMIENTOS (movimiento_id, numero_cuenta_id,monto, tipo_de_operacion, hora)
+VALUES (1,  200, 1000, 'transferencia', datetime('now'));
+
+INSERT INTO MOVIMIENTOS (movimiento_id, numero_cuenta_id,monto, tipo_de_operacion, hora)
+VALUES (2, 400, 1000, 'transferencia', datetime('now'));
+
+COMMIT;
